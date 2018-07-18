@@ -1,0 +1,19 @@
+{
+  "name": "test_pub",
+  "version": "1.0.0",
+  "description": "testing the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santoshbt/test_pub.git"
+  },
+  "author": "Santosh Turamari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santoshbt/test_pub/issues"
+  },
+  "homepage": "https://github.com/santoshbt/test_pub#readme"
+}
